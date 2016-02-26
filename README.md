@@ -13,6 +13,10 @@ from the github repo [elife-articles](https://github.com/elifesciences/elife-art
 
 # Example scripts
 
+These examples assume that you have a set of eLife xml articles in an `elife-articles` subdirectory of
+directory that the examples are contained in.
+
+
 
 # Further Reading
 [basex](http://basex.org)
